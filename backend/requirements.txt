@@ -1,0 +1,7 @@
+altgraph == 0.17.2
+future == 0.18.2
+macholib == 1.15.2
+six == 1.15.0
+sqlalchemy == 2.0.12
+psycopg2 == 2.9.6
+pydantic == 1.10.7

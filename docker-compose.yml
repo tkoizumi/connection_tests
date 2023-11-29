@@ -1,0 +1,5 @@
+services:
+  backend:
+    image: squashataka/oauth2_test
+    ports:
+      - 8000:8000
