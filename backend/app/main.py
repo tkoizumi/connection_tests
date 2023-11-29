@@ -14,4 +14,4 @@ app.add_middleware(
 
 @app.get("/")
 def root():
-    return {"message": "oauth api home page"}
+    return {"message": "oauth api test by Taka's very private machine"}
